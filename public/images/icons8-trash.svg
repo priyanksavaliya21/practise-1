@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.154" height="12" viewBox="0 0 10.154 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="10.154" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icons8-trash" clip-path="url(#clip-path)">
+    <g id="icons8-trash-2" data-name="icons8-trash">
+      <path id="Shape" d="M2.308,12A1.389,1.389,0,0,1,.923,10.616V2.769H0V1.846H2.769V1.381A1.388,1.388,0,0,1,4.15,0H6A1.388,1.388,0,0,1,7.385,1.381v.465h2.769v.923H9.23v7.846A1.389,1.389,0,0,1,7.846,12Z" fill="#20a6d2"/>
+    </g>
+  </g>
+</svg>
